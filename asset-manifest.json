@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.983fca80.chunk.css",
-    "main.js": "/static/js/main.0858fab6.chunk.js",
-    "main.js.map": "/static/js/main.0858fab6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bada5d51.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bada5d51.js.map",
-    "static/js/2.cb47101b.chunk.js": "/static/js/2.cb47101b.chunk.js",
-    "static/js/2.cb47101b.chunk.js.map": "/static/js/2.cb47101b.chunk.js.map",
-    "static/js/3.2bb125a9.chunk.js": "/static/js/3.2bb125a9.chunk.js",
-    "static/js/3.2bb125a9.chunk.js.map": "/static/js/3.2bb125a9.chunk.js.map",
+    "main.css": "/static/css/main.fe1fb6b5.chunk.css",
+    "main.js": "/static/js/main.01d8ceed.chunk.js",
+    "main.js.map": "/static/js/main.01d8ceed.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.da187aa3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.da187aa3.js.map",
+    "static/js/2.1d2083a3.chunk.js": "/static/js/2.1d2083a3.chunk.js",
+    "static/js/2.1d2083a3.chunk.js.map": "/static/js/2.1d2083a3.chunk.js.map",
+    "static/js/3.67464980.chunk.js": "/static/js/3.67464980.chunk.js",
+    "static/js/3.67464980.chunk.js.map": "/static/js/3.67464980.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.983fca80.chunk.css.map": "/static/css/main.983fca80.chunk.css.map",
-    "static/js/2.cb47101b.chunk.js.LICENSE.txt": "/static/js/2.cb47101b.chunk.js.LICENSE.txt",
+    "static/css/main.fe1fb6b5.chunk.css.map": "/static/css/main.fe1fb6b5.chunk.css.map",
+    "static/js/2.1d2083a3.chunk.js.LICENSE.txt": "/static/js/2.1d2083a3.chunk.js.LICENSE.txt",
+    "static/media/Nadia.25718395.jpg": "/static/media/Nadia.25718395.jpg",
     "static/media/Tang.ebe4e4ec.JPG": "/static/media/Tang.ebe4e4ec.JPG",
     "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
-    "static/media/background.css": "/static/media/marble.0983ec5e.jpg"
+    "static/media/marble.c6a5c2f5.jpg": "/static/media/marble.c6a5c2f5.jpg",
+    "static/media/background.css": "/static/media/marble1.c221a065.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bada5d51.js",
-    "static/js/2.cb47101b.chunk.js",
-    "static/css/main.983fca80.chunk.css",
-    "static/js/main.0858fab6.chunk.js"
+    "static/js/runtime-main.da187aa3.js",
+    "static/js/2.1d2083a3.chunk.js",
+    "static/css/main.fe1fb6b5.chunk.css",
+    "static/js/main.01d8ceed.chunk.js"
   ]
 }
